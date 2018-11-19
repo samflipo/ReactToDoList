@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+  padding-left: 2em;
 }
 
 .App-logo {
@@ -7,6 +8,12 @@
   height: 40vmin;
 }
 
+.results {
+  text-align: left
+}
+.add, .remove {
+  margin-bottom: 1em
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
