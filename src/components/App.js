@@ -6,9 +6,6 @@ import HomePage from './HomePage'
 import Todo from './Todo';
 import Books from './Books';
 
-// import YTSearch from 'youtube-api-search';
-// const API_KEY = 'AIzaSyDEJUaLaxT7SwbjqqyqyMfqz_OyQOdhtco';
-
 const App = () => {
   return (
     <Router>
