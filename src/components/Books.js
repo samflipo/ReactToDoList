@@ -1,10 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-
-// import YTSearch from 'youtube-api-search';
 import './App.css';
-// const API_KEY = 'AIzaSyDEJUaLaxT7SwbjqqyqyMfqz_OyQOdhtco';
-
 
 // create an app with a todo list
 export default class TodoApp extends Component {
@@ -72,6 +68,3 @@ TaskItem.propTypes = {
   item: PropTypes.string,
   removeTask: PropTypes.func
 };
-
-
-// 
